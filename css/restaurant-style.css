@@ -21,6 +21,7 @@ body{
 }
 
 li a{
+	background-color: #F3651D;
 	text-align: center;
 }
 
@@ -30,7 +31,24 @@ section{
 	padding: 0.5em 0.5em;
 }
 
-section h2{
+#chicken{
+	background-color: #F1CF11;
+}
+
+#meat{
+	background-color: #DD160A;
+}
+
+#fish{
+	background-color: #2978EA;
+}
+
+h2{
+	text-align: center;
+	font-weight: bold;
+}
+
+.page-header h1{
 	text-align: center;
 	font-weight: bold;
 }

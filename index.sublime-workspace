@@ -1,0 +1,509 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"BA",
+				"background-color"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"background",
+				"background-repeat"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"fot",
+				"footer	Tag"
+			],
+			[
+				"for",
+				"forin	for … in … done"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"JSO",
+				"JSONResponse"
+			],
+			[
+				"Sni",
+				"SnippetSerializer"
+			],
+			[
+				"JSON",
+				"JSONParser"
+			],
+			[
+				"Sn",
+				"SnippetSerializer"
+			],
+			[
+				"sni",
+				"snippet"
+			],
+			[
+				"JSOn",
+				"JSONResponse"
+			],
+			[
+				"csr",
+				"csrf_exempt"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"JS",
+				"JSONResponse"
+			],
+			[
+				"rende",
+				"render"
+			],
+			[
+				"de",
+				"def	Function"
+			],
+			[
+				"vali",
+				"validated_data"
+			],
+			[
+				"St",
+				"STYLE_CHOICES"
+			],
+			[
+				"ser",
+				"serializers"
+			],
+			[
+				"get",
+				"get_all_styles"
+			],
+			[
+				"question",
+				"question_text"
+			],
+			[
+				"pas",
+				"past_question"
+			],
+			[
+				"tes",
+				"test_detail_view_with_a_future_question"
+			],
+			[
+				"future",
+				"future_question"
+			],
+			[
+				"que",
+				"question_text"
+			],
+			[
+				"fut",
+				"future_question"
+			],
+			[
+				"test_i",
+				"test_index_view_with_a_past_question"
+			],
+			[
+				"la",
+				"latest_question_list"
+			],
+			[
+				"asse",
+				"assertQuerysetEqual"
+			],
+			[
+				"test_",
+				"test_index_view_with_a_future_question"
+			],
+			[
+				"create",
+				"create_question"
+			],
+			[
+				"time",
+				"timezone"
+			],
+			[
+				"te",
+				"test_was_published_recently_with_future_question"
+			],
+			[
+				"tim",
+				"timedelta"
+			],
+			[
+				"Http",
+				"HttpResponseRedirect"
+			],
+			[
+				"sele",
+				"selected_choice"
+			],
+			[
+				"ex",
+				"except"
+			],
+			[
+				"g",
+				"get_object_or_404"
+			],
+			[
+				"ques",
+				"question_text"
+			],
+			[
+				"Q",
+				"QuestionAdmin"
+			],
+			[
+				"date",
+				"datetime"
+			],
+			[
+				"pub",
+				"pub_date"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Color Picker"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"Pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Contro: Re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"consol",
+				"Set Syntax: R Console"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/wesley/Documentos/Projetos/HTML, CSS, and Javascript for Web Developers/responsive-restaurant-menu/index.html",
+		"/home/wesley/Documentos/Projetos/HTML, CSS, and Javascript for Web Developers/modulo-2-solution/index.html",
+		"/home/wesley/Documentos/Projetos/HTML, CSS, and Javascript for Web Developers/modulo-2-solution/css/style.css",
+		"/tmp/.fr-7dqqJn/bootstrap-3.3.6-dist/js/npm.js",
+		"/home/wesley/Documentos/Projetos/HTML, CSS, and Javascript for Web Developers/responsive-restaurant-menu/$",
+		"/home/wesley/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/wesley/.config/sublime-text-3/Packages/User/ColorPicker.sublime-settings",
+		"/home/wesley/Documentos/Cursos/HTML, CSS and JavaScript for Web Developers/index.html",
+		"/home/wesley/Documentos/Cursos/HTML, CSS and JavaScript for Web Developers/untitled",
+		"/home/wesley/Documentos/Cursos/Introduction to CSS3/assignment-1 2/index.html",
+		"/home/wesley/Documentos/Cursos/Introduction to CSS3/assignment-1 2/teams.html",
+		"/home/wesley/Documentos/Cursos/Introduction to CSS3/assignment-1 2/history.html",
+		"/home/wesley/Documentos/Cursos/Introduction to CSS3/assignment-1 2/css/hw1.css",
+		"/home/wesley/Documentos/Cursos/Introduction to CSS3/assignment-1 2/css/rc1.css",
+		"/home/wesley/Documentos/Cursos/Introduction to HTML5/style-conference/index.html",
+		"/home/wesley/Documentos/Cursos/Introduction to HTML5/style-conference/assets/stylesheets/main.css",
+		"/home/wesley/Documentos/Cursos/Introduction to HTML5/firt-page-html/index.htm",
+		"/home/wesley/Documentos/Cursos/Introduction to HTML5/firt-page-html/index.html",
+		"/home/wesley/Documentos/Projetos/TCC/Simple_FingerPrint_Matching/FExtraction/smoothen_frequency_image.m",
+		"/home/wesley/Documentos/Projetos/TCC/Simple_FingerPrint_Matching/FExtraction/fft_enhance_cubs.m",
+		"/home/wesley/Documentos/Projetos/TCC/Simple_FingerPrint_Matching/FExtraction/normalise.m",
+		"/home/wesley/Documentos/Projetos/TCC/Simple_FingerPrint_Matching/FExtraction/ridgeorient.m",
+		"/home/wesley/Documentos/Projetos/TCC/Simple_FingerPrint_Matching/f_enhance.m",
+		"/home/wesley/Documentos/Projetos/TCC/Simple_FingerPrint_Matching/FExtraction/ridgesegment.m",
+		"/home/wesley/Documentos/Projetos/TCC/Simple_FingerPrint_Matching/ext_finger.m",
+		"/home/wesley/Documentos/Projetos/TCC/Simple_FingerPrint_Matching/main_single.m",
+		"/home/wesley/Dropbox/Link to Modulo de pré-processamento de impressões/Fingerprint_Minutiae_Extraction/Fingerprint_Minutiae_Extraction/Minutuae_Extraction.m",
+		"/home/wesley/Documentos/Projetos/TCC/FingerPrint Minutiae Extraction/fingerprint.m",
+		"/home/wesley/tutorial_django_rest/snippets/urls.py",
+		"/home/wesley/tutorial_django_rest/snippets/views.py",
+		"/home/wesley/tutorial_django_rest/tutorial_django_rest/urls.py",
+		"/home/wesley/Documentos/convert_encoding.sh",
+		"/home/wesley/tutorial_django_rest/tutorial_django_rest/settings.py",
+		"/home/wesley/tutorial_django_rest/snippets/models.py",
+		"/home/wesley/tutorial_django_rest/snippets/serializers.py",
+		"/home/wesley/tutorial/polls/views.py",
+		"/home/wesley/tutorial/polls/static/polls/style.css",
+		"/home/wesley/tutorial/polls/tests.py",
+		"/home/wesley/tutorial/polls/models.py",
+		"/home/wesley/tutorial/polls/templates/polls/detail.html",
+		"/home/wesley/tutorial/polls/templates/polls/results.html",
+		"/home/wesley/tutorial/polls/templates/polls/index.html",
+		"/home/wesley/tutorial/polls/urls.py",
+		"/home/wesley/tutorial/tutorial/urls.py",
+		"/home/wesley/tutorial/polls/admin.py",
+		"/home/wesley/tutorial/polls/views_old_version.py",
+		"/home/wesley/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/wesley/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/wesley/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/wesley/tutorial/tutorial/settings.py",
+		"/home/wesley/tutorial/manage.py",
+		"/home/wesley/.config/sublime-text-3/Packages/Anaconda/README.md",
+		"/home/wesley/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+		"/home/wesley/.config/sublime-text-3/Packages/User/Plain text.sublime-settings"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" (",
+			"Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi blandit id odio eu semper. Nulla eu lobortis magna. Pellentesque ipsum turpis, venenatis a tempor ut, fringilla ut velit. Mauris a pulvinar ipsum. Aenean fermentum malesuada aliquet. Etiam at mauris metus. Morbi pretium faucibus pellentesque. Nam vehicula finibus enim. Nulla ac nisl eget mi venenatis laoreet.",
+			"col-lg-eq",
+			"ridgesegment",
+			")\n",
+			"__init__",
+			"from",
+			"code",
+			"get_all_lexers",
+			"lexers",
+			"from",
+			"get_all_lexers",
+			"question_id"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"desktop tablet mobile",
+			"style",
+			"language",
+			"linenos",
+			"pk"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
